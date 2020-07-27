@@ -1,0 +1,12 @@
+.lista-info {
+  li {
+    width: inherit;
+    padding: 5px 0;
+    margin-bottom: 10px;
+    border-bottom: 2px solid $colore_primario;
+
+    span {
+      font-weight: bold;
+    }
+  }
+}

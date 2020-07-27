@@ -1,0 +1,19 @@
+header {
+  background: $bg_header;
+  border-bottom: 2px solid $colore_primario;
+
+  .navbar {
+    height: 100px;
+    display: flex;
+    align-items: center;
+
+    .logo {
+      font-size: 50px;
+      font-weight: bold;
+
+      img {
+        width: 70px;
+      }
+    }
+  }
+}
